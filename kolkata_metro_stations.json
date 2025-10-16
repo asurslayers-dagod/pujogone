@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Kavi Subhash",
+    "short_code": "KKVS",
+    "location": "New Garia",
+    "lines": [
+      "Blue Line",
+      "Orange Line"
+    ],
+    "latitude": 22.4721796,
+    "longitude": 88.3952919
+  },
+  {
+    "name": "Shahid Khudiram",
+    "short_code": "KSKD",
+    "location": "Briji/Dhalai Bridge",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.4660645,
+    "longitude": 88.3917389
+  },
+  {
+    "name": "Kavi Nazrul",
+    "short_code": "KKNZ",
+    "location": "Garia Bazar",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.4642442,
+    "longitude": 88.3806582
+  },
+  {
+    "name": "Gitanjali",
+    "short_code": "KGTN",
+    "location": "Naktala",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.469425,
+    "longitude": 88.3699223
+  },
+  {
+    "name": "Masterda Surya Sen",
+    "short_code": "KMSN",
+    "location": "Bansdroni",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.4734883,
+    "longitude": 88.3608039
+  },
+  {
+    "name": "Netaji",
+    "short_code": "KNTJ",
+    "location": "Kudghat",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.4809362,
+    "longitude": 88.3459611
+  },
+  {
+    "name": "Mahanayak Uttam Kumar",
+    "short_code": "KMUK",
+    "location": "Tollygunge",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.4944519,
+    "longitude": 88.3451538
+  },
+  {
+    "name": "Rabindra Sarobar",
+    "short_code": "KRSB",
+    "location": "Charu Market",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.5068026,
+    "longitude": 88.3453488
+  },
+  {
+    "name": "Kalighat",
+    "short_code": "KKHG",
+    "location": "Rashbehari",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.5166788,
+    "longitude": 88.346
+  },
+  {
+    "name": "Jatin Das Park",
+    "short_code": "KJPK",
+    "location": "Hazra",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.524262,
+    "longitude": 88.346489
+  },
+  {
+    "name": "Netaji Bhavan",
+    "short_code": "KNBN",
+    "location": "Bhawanipore",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.532977,
+    "longitude": 88.3457124
+  },
+  {
+    "name": "Rabindra Sadan",
+    "short_code": "KRSD",
+    "location": "Exide",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.5411079,
+    "longitude": 88.3472962
+  },
+  {
+    "name": "Maidan",
+    "short_code": "KMDI",
+    "location": "Maidan",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.5492537,
+    "longitude": 88.3485752
+  },
+  {
+    "name": "Park Street",
+    "short_code": "KPSK",
+    "location": "Park Street",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.555468,
+    "longitude": 88.3501679
+  },
+  {
+    "name": "Esplanade",
+    "short_code": "KESP",
+    "location": "Dharmatala",
+    "lines": [
+      "Blue Line",
+      "Green Line"
+    ],
+    "latitude": 22.5648402,
+    "longitude": 88.3516486
+  },
+  {
+    "name": "Chandni Chowk",
+    "short_code": "KCWC",
+    "location": "Chandni Chowk",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.5674413,
+    "longitude": 88.3547877
+  },
+  {
+    "name": "Central",
+    "short_code": "KCEN",
+    "location": "Bowbazar",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.5725237,
+    "longitude": 88.3582423
+  },
+  {
+    "name": "Mahatma Gandhi Road",
+    "short_code": "KMHR",
+    "location": "Mahajati Sadan",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.580696,
+    "longitude": 88.3613813
+  },
+  {
+    "name": "Girish Park",
+    "short_code": "KGPK",
+    "location": "Jorasanko",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.5871415,
+    "longitude": 88.3630842
+  },
+  {
+    "name": "Shobhabazar Sutanuti",
+    "short_code": "KSHO",
+    "location": "Shobhabazar",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.5960254,
+    "longitude": 88.3652848
+  },
+  {
+    "name": "Shyambazar",
+    "short_code": "KSHY",
+    "location": "Shyambazar",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.536823,
+    "longitude": 88.3834444
+  },
+  {
+    "name": "Belgachhia",
+    "short_code": "KBEL",
+    "location": "Belgachhia",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.6059735,
+    "longitude": 88.3868404
+  },
+  {
+    "name": "Dum Dum",
+    "short_code": "KDMI",
+    "location": "Dum Dum",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.6209245,
+    "longitude": 88.3929726
+  },
+  {
+    "name": "Noapara",
+    "short_code": "KNAP",
+    "location": "Noapara",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.639931,
+    "longitude": 88.3941195
+  },
+  {
+    "name": "Baranagar",
+    "short_code": "KBAR",
+    "location": "Baranagar",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.6532554,
+    "longitude": 88.3804222
+  },
+  {
+    "name": "Dakshineswar",
+    "short_code": "KDSW",
+    "location": "Dakshineswar",
+    "lines": [
+      "Blue Line"
+    ],
+    "latitude": 22.6539499,
+    "longitude": 88.3637803
+  },
+  {
+    "name": "Salt Lake Sector V",
+    "short_code": "SVSA",
+    "location": "Salt Lake Sector V",
+    "lines": [
+      "Green Line"
+    ],
+    "latitude": 22.580939,
+    "longitude": 88.429052
+  },
+  {
+    "name": "Karunamoyee",
+    "short_code": "KESA",
+    "location": "Karunamoyee",
+    "lines": [
+      "Green Line"
+    ],
+    "latitude": 22.5862825,
+    "longitude": 88.4214022
+  },
+  {
+    "name": "Central Park",
+    "short_code": "CPSA",
+    "location": "Central Park",
+    "lines": [
+      "Green Line"
+    ],
+    "latitude": 22.5903952,
+    "longitude": 88.4155095
+  },
+  {
+    "name": "City Centre",
+    "short_code": "CCSC",
+    "location": "City Centre",
+    "lines": [
+      "Green Line"
+    ],
+    "latitude": 22.5870411,
+    "longitude": 88.4078654
+  },
+  {
+    "name": "Bengal Chemical",
+    "short_code": "BCSD",
+    "location": "Bengal Chemical",
+    "lines": [
+      "Green Line"
+    ],
+    "latitude": 22.5800328,
+    "longitude": 88.4013242
+  },
+  {
+    "name": "Salt Lake Stadium",
+    "short_code": "SSSA",
+    "location": "Salt Lake Stadium",
+    "lines": [
+      "Green Line"
+    ],
+    "latitude": 22.573016,
+    "longitude": 88.4030255
+  },
+  {
+    "name": "Phoolbagan",
+    "short_code": "PBGB",
+    "location": "Phoolbagan",
+    "lines": [
+      "Green Line"
+    ],
+    "latitude": 22.5722076,
+    "longitude": 88.3898715
+  },
+  {
+    "name": "Sealdah",
+    "short_code": "SDHM",
+    "location": "Sealdah",
+    "lines": [
+      "Green Line"
+    ],
+    "latitude": 22.5668563,
+    "longitude": 88.371425
+  },
+  {
+    "name": "Mahakaran",
+    "short_code": "MKNA",
+    "location": "Mahakaran",
+    "lines": [
+      "Green Line"
+    ],
+    "latitude": 22.5716315,
+    "longitude": 88.3501279
+  },
+  {
+    "name": "Howrah",
+    "short_code": "HWHM",
+    "location": "Howrah",
+    "lines": [
+      "Green Line"
+    ],
+    "latitude": 22.5833741,
+    "longitude": 88.3379685
+  },
+  {
+    "name": "Howrah Maidan",
+    "short_code": "HWMM",
+    "location": "Howrah Maidan",
+    "lines": [
+      "Green Line"
+    ],
+    "latitude": 22.5833782,
+    "longitude": 88.3337983
+  },
+  {
+    "name": "Joka",
+    "short_code": "KJKA",
+    "location": "Joka",
+    "lines": [
+      "Purple Line"
+    ],
+    "latitude": 22.4519191,
+    "longitude": 88.3015804
+  },
+  {
+    "name": "Thakurpukur",
+    "short_code": "KTKP",
+    "location": "Thakurpukur",
+    "lines": [
+      "Purple Line"
+    ],
+    "latitude": 22.4640967,
+    "longitude": 88.3068359
+  },
+  {
+    "name": "Sakherbazar",
+    "short_code": "KSKB",
+    "location": "Sakherbazar",
+    "lines": [
+      "Purple Line"
+    ],
+    "latitude": 22.4747597,
+    "longitude": 88.3099273
+  },
+  {
+    "name": "Behala Chowrasta",
+    "short_code": "KBCR",
+    "location": "Behala Chowrasta",
+    "lines": [
+      "Purple Line"
+    ],
+    "latitude": 22.4870602,
+    "longitude": 88.3131928
+  },
+  {
+    "name": "Behala Bazar",
+    "short_code": "KBBR",
+    "location": "Behala Bazar",
+    "lines": [
+      "Purple Line"
+    ],
+    "latitude": 22.4992952,
+    "longitude": 88.31719
+  },
+  {
+    "name": "Taratala",
+    "short_code": "KTRT",
+    "location": "Taratala",
+    "lines": [
+      "Purple Line"
+    ],
+    "latitude": 22.507687,
+    "longitude": 88.320279
+  },
+  {
+    "name": "Majerhat",
+    "short_code": "KMJH",
+    "location": "Majerhat",
+    "lines": [
+      "Purple Line"
+    ],
+    "latitude": 22.519219,
+    "longitude": 88.323742
+  },
+  {
+    "name": "Satyajit Ray",
+    "short_code": "KSJR",
+    "location": "Chak Garia",
+    "lines": [
+      "Orange Line"
+    ],
+    "latitude": 22.4839198,
+    "longitude": 88.3922501
+  },
+  {
+    "name": "Jyotirindra Nandi",
+    "short_code": "KJNN",
+    "location": "Mukundapur",
+    "lines": [
+      "Orange Line"
+    ],
+    "latitude": 22.4961562,
+    "longitude": 88.3988289
+  },
+  {
+    "name": "Kavi Sukanta",
+    "short_code": "KKSK",
+    "location": "Kavi Sukanta",
+    "lines": [
+      "Orange Line"
+    ],
+    "latitude": 22.505602,
+    "longitude": 88.401066
+  },
+  {
+    "name": "Hemanta Mukhopadhyay",
+    "short_code": "KHMD",
+    "location": "Ruby Crossing",
+    "lines": [
+      "Orange Line"
+    ],
+    "latitude": 22.514684,
+    "longitude": 88.401604
+  },
+  {
+    "name": "Ritwik Ghatak",
+    "short_code": "KRWT",
+    "location": "Topsia",
+    "lines": [
+      "Orange Line"
+    ],
+    "latitude": 22.532913,
+    "longitude": 88.39644
+  }
+]
